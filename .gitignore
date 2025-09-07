@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Don't ignore customer assets - we want them in the repo for CDN
+# !customers/*/
