@@ -16,6 +16,7 @@ Last updated: 2025-09-07
 ## 🎯 QRTub Project Files
 
 ### Shared Icons 
+- **radioactive.png**: https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/_shared/icons/radioactive.png 
 - **weight.png**: https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/_shared/icons/weight.png 
  
 ### Project Files 
