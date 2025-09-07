@@ -1,6 +1,0 @@
-Sample Terms and Conditions Document
-
-This is a test document for the customer assets CDN setup.
-It demonstrates how text files can be served via jsDelivr.
-
-Last updated: September 2025
