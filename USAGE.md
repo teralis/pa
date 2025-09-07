@@ -2,17 +2,11 @@
 
 ## 🚀 Quick Start
 
-1. **Push to GitHub:**
-   ```bash
-   git add .
-   git commit -m "Setup customer assets CDN"
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   git push -u origin main
-   ```
+✅ **Already deployed!** This repo is live at: https://github.com/teralis/pa
 
-2. **Update URLs:** Replace `USERNAME/REPO` in all files with your actual GitHub details
-
-3. **Test:** Visit `https://cdn.jsdelivr.net/gh/YOUR_USERNAME/YOUR_REPO_NAME/customers/example-corp/index.html`
+**Test the CDN:**
+- Browse: https://cdn.jsdelivr.net/gh/teralis/pa/customers/example-corp/
+- Direct file: https://cdn.jsdelivr.net/gh/teralis/pa/customers/example-corp/images/banner.jpg
 
 ## 📁 Adding Customer Assets
 
@@ -55,13 +49,13 @@ git add . && git commit -m "Add assets for acme-corp" && git push
 
 **Pattern:**
 ```
-https://cdn.jsdelivr.net/gh/USERNAME/REPO/customers/CLIENT-NAME/TYPE/FILENAME
+https://cdn.jsdelivr.net/gh/teralis/pa/customers/CLIENT-NAME/TYPE/FILENAME
 ```
 
 **Examples:**
-- Image: `https://cdn.jsdelivr.net/gh/username/repo/customers/acme-corp/images/logo.png`
-- Document: `https://cdn.jsdelivr.net/gh/username/repo/customers/acme-corp/docs/brochure.pdf`
-- Index: `https://cdn.jsdelivr.net/gh/username/repo/customers/acme-corp/index.html`
+- Image: `https://cdn.jsdelivr.net/gh/teralis/pa/customers/acme-corp/images/logo.png`
+- Document: `https://cdn.jsdelivr.net/gh/teralis/pa/customers/acme-corp/docs/brochure.pdf`
+- Browse Directory: `https://cdn.jsdelivr.net/gh/teralis/pa/customers/acme-corp/`
 
 ## ⚡ Workflow for Daily Use
 
