@@ -16,6 +16,7 @@ Last updated: 2025-09-07
 ## 🎯 QRTub Project Files
 
 ### Shared Icons 
+- **list-check.png**: https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/_shared/icons/list-check.png 
 - **radioactive.png**: https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/_shared/icons/radioactive.png 
 - **weight.png**: https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/_shared/icons/weight.png 
  
@@ -32,6 +33,7 @@ Last updated: 2025-09-07
 - **README.md**: https://cdn.jsdelivr.net/gh/teralis/pa/README.md 
 - **USAGE.md**: https://cdn.jsdelivr.net/gh/teralis/pa/USAGE.md 
 - **CDN_CATALOG.md**: https://cdn.jsdelivr.net/gh/teralis/pa/CDN_CATALOG.md 
+- **icons from tabler.txt**: https://cdn.jsdelivr.net/gh/teralis/pa/icons from tabler.txt 
 - **.gitignore**: https://cdn.jsdelivr.net/gh/teralis/pa/.gitignore 
 
 ---
