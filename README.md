@@ -1,37 +1,27 @@
-# Customer Assets CDN
+# Asset CDN
 
-This repository serves customer assets (images, documents, etc.) via jsDelivr CDN for quick deployment without dev time.
+Simple asset hosting via jsDelivr CDN for instant deployment.
 
 ## 🚀 Live URLs
 
-- **Browse All Customers:** https://cdn.jsdelivr.net/gh/teralis/pa/customers/
-- **Example Customer:** https://cdn.jsdelivr.net/gh/teralis/pa/customers/example-corp/
-- **Direct File:** https://cdn.jsdelivr.net/gh/teralis/pa/customers/example-corp/images/banner.jpg
+- **Browse Assets:** https://cdn.jsdelivr.net/gh/teralis/pa/assets/
+- **Example Image:** https://cdn.jsdelivr.net/gh/teralis/pa/assets/images/banner.jpg
+- **Example Doc:** https://cdn.jsdelivr.net/gh/teralis/pa/assets/docs/terms.txt
 
 ## Structure
 
 ```
-customers/
-├── customer1/
-│   ├── images/
-│   └── docs/
-├── customer2/
-│   ├── images/
-│   └── docs/
-└── example-corp/
-    ├── images/
-    ├── docs/
-    └── README.md (file links)
+assets/
+├── images/
+├── docs/
+└── [any files/folders you want]
 ```
 
 ## Usage
 
-1. Add customer assets to appropriate folder
-2. Push to GitHub
-3. Access via jsDelivr: `https://cdn.jsdelivr.net/gh/teralis/pa/customers/customer1/images/logo.png`
-4. Browse directories: `https://cdn.jsdelivr.net/gh/teralis/pa/customers/customer1/`
+1. Drop files anywhere in `assets/` folder
+2. `git add . && git commit -m "Add new assets" && git push`
+3. Access via: `https://cdn.jsdelivr.net/gh/teralis/pa/assets/path/to/file.ext`
+4. Browse via: `https://cdn.jsdelivr.net/gh/teralis/pa/assets/`
 
-## Quick Commands
-
-- Add new customer: `./scripts/add-customer.sh "customer-name"`
-- Generate README with links: `./scripts/generate-index.sh "customer-name"`
+**Zero friction asset hosting for your QR code software!** 🎯
