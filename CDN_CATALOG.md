@@ -2,7 +2,7 @@
 
 **Base URL:** `https://cdn.jsdelivr.net/gh/teralis/pa/`
 
-Last updated: 2025-09-07
+Last updated: 2025-09-10
 
 ---
 
@@ -24,8 +24,8 @@ Last updated: 2025-09-07
 - **index.html**: https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/index.html 
 - **README.md**: https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/README.md 
  
-### 001junttan Directory 
-- **Browse:** https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/001junttan/ 
+### 01smc Directory 
+- **Browse:** https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/01smc/ 
 
 ---
 

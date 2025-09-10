@@ -4,7 +4,8 @@
 
 1. **Add files:** Drop anything into `assets/` folder
 2. **Deploy:** `git add . && git commit -m "Add assets" && git push`
-3. **Share:** `https://cdn.jsdelivr.net/gh/teralis/pa/assets/filename.ext`
+3. **Deploy Powershell** `git add . ; git commit -m "Add assets" ; git push`
+4. **Share:** `https://cdn.jsdelivr.net/gh/teralis/pa/assets/filename.ext`
 
 ## 🔗 URL Format
 
