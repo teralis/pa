@@ -2,7 +2,7 @@
 
 **Base URL:** `https://cdn.jsdelivr.net/gh/teralis/pa/`
 
-Last updated: 2025-09-10
+Last updated: 2025-09-18
 
 ---
 
@@ -26,6 +26,9 @@ Last updated: 2025-09-10
  
 ### 01smc Directory 
 - **Browse:** https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/01smc/ 
+ 
+### 02jnt Directory 
+- **Browse:** https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/02jnt/ 
 
 ---
 
