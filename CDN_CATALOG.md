@@ -2,7 +2,7 @@
 
 **Base URL:** `https://cdn.jsdelivr.net/gh/teralis/pa/`
 
-Last updated: 2025-09-18
+Last updated: 2025-09-20
 
 ---
 
