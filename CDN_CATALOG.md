@@ -10,7 +10,6 @@ Last updated: 2025-10-24
 
 - **Root:** https://cdn.jsdelivr.net/gh/teralis/pa/
 - **QRTub Project:** https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/ 
-- **pk:** https://cdn.jsdelivr.net/gh/teralis/pa/pk/ 
 
 ---
 
@@ -30,6 +29,9 @@ Last updated: 2025-10-24
  
 ### 02jnt Directory 
 - **Browse:** https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/02jnt/ 
+ 
+### pk Directory 
+- **Browse:** https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/pk/ 
 
 ---
 
