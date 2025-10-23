@@ -2,7 +2,7 @@
 
 **Base URL:** `https://cdn.jsdelivr.net/gh/teralis/pa/`
 
-Last updated: 2025-09-20
+Last updated: 2025-10-24
 
 ---
 
@@ -10,6 +10,7 @@ Last updated: 2025-09-20
 
 - **Root:** https://cdn.jsdelivr.net/gh/teralis/pa/
 - **QRTub Project:** https://cdn.jsdelivr.net/gh/teralis/pa/qrtub/ 
+- **pk:** https://cdn.jsdelivr.net/gh/teralis/pa/pk/ 
 
 ---
 
