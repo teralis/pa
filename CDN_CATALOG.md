@@ -33,6 +33,13 @@ Last updated: 2025-10-24
 
 ---
 
+## 📚 PK Files
+
+### Files 
+- **Hyperlinked Spec.pdf**: https://cdn.jsdelivr.net/gh/teralis/pa/pk/Hyperlinked Spec.pdf 
+
+---
+
 ## 📄 Root Files
 - **README.md**: https://cdn.jsdelivr.net/gh/teralis/pa/README.md 
 - **USAGE.md**: https://cdn.jsdelivr.net/gh/teralis/pa/USAGE.md 

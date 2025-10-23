@@ -85,6 +85,32 @@ if exist "qrtub" (
     )
 )
 
+REM Add PK section if it exists
+if exist "pk" (
+    (
+    echo.
+    echo ---
+    echo.
+    echo ## 📚 PK Files
+    echo.
+    ) >> "%CATALOG_FILE%"
+
+    REM PK Files
+    echo ### Files >> "%CATALOG_FILE%"
+    for %%f in ("pk\*.*") do (
+        if not "%%~nxf"=="desktop.ini" (
+            echo - **%%~nxf**: %BASE_URL%/pk/%%~nxf >> "%CATALOG_FILE%"
+        )
+    )
+
+    REM PK subdirectories (if any)
+    for /d %%d in ("pk\*") do (
+        echo. >> "%CATALOG_FILE%"
+        echo ### %%~nd Directory >> "%CATALOG_FILE%"
+        echo - **Browse:** %BASE_URL%/pk/%%~nd/ >> "%CATALOG_FILE%"
+    )
+)
+
 REM Add Assets section if it exists
 if exist "assets" (
     (
